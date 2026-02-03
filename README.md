@@ -61,8 +61,6 @@ Universidad de la Tecnología 🏫
 
 ### 📫 Contacto
 
-- 🐱 GitHub: [github.com/Dev_MP](https://github.com/Dev_MP)
-- 💼 LinkedIn: [linkedin.com/in/dev-mp](https://linkedin.com/in/dev-mp)
-- ✉️ Email: devmp@email.com
-
+- 💼 LinkedIn: [linkedin.com/in/dev-mp](https://www.linkedin.com/in/yeferson-muñoz-31aba2373/)
+- ✉️ Email: yefer.rock01@gmail.com
 ---
